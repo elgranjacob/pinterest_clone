@@ -1,4 +1,4 @@
-# Pinteres
+# Pinterest
 ## Proyecto de clon de mi propio Pinterest
 ### Tecnologías
 
